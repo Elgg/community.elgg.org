@@ -1,0 +1,6 @@
+[submodule "community_customizations"]
+	path = community_customizations
+	url = git://github.com/Elgg/community_customizations.git
+[submodule "community_groups"]
+	path = community_groups
+	url = git://github.com/Elgg/community_groups.git
