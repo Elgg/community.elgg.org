@@ -7,3 +7,6 @@
 [submodule "community_plugins"]
 	path = community_plugins
 	url = git@github.com:Elgg/community_plugins.git
+[submodule "community_theme"]
+	path = community_theme
+	url = git@github.com:Elgg/community_theme.git
