@@ -4,3 +4,6 @@
 [submodule "community_groups"]
 	path = community_groups
 	url = git://github.com/Elgg/community_groups.git
+[submodule "community_plugins"]
+	path = community_plugins
+	url = git@github.com:Elgg/community_plugins.git
